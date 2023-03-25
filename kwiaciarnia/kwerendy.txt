@@ -1,0 +1,8 @@
+Kwerenda 1
+    SELECT `kwiaciarnie`.`nazwa`, `kwiaciarnie`.`ulica` FROM `kwiaciarnie` WHERE `kwiaciarnie`.`miasto` = 'Malbork';
+
+Kwerenda 2
+    SELECT `zamowienia`.`id_zam` FROM `zamowienia` WHERE`zamowienia`.`data` = "2017-01-7";
+
+Kwerenda 3
+    
